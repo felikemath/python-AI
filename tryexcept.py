@@ -20,6 +20,8 @@ def compare_ints(t):
 class IncorrectAmountofNumbers(Exception):
     pass
 
+#cool
+
 while True:
     try:
         t = tuple(input('Hello! I am KINGEDWARDBOT and I like to compare values. Type bye if you want to leave. Please input two values to be compared:\n '))
